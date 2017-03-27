@@ -13,10 +13,10 @@
 * [Adrian Eyre](https://github.com/adrianeyre)
 
 ## Index
-* [Task] (#Task)
-* [Installation] (#Install)
-* [User Stories] (#Stories)
-* [Usage] (#Usage)
+* [Task](#Task)
+* [Installation](#Install)
+* [User Stories](#Stories)
+* [Usage](#Usage)
 * [Online Presentation](#Pres)
 
 ## <a name="Task">Task</a>
