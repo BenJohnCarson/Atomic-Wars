@@ -1,6 +1,6 @@
 # Atomic-Wars Atom Package
 #### Technologies: Javascript, Coffeescript, Jasmine, Atom
-### [Makers Academy] (http://www.makersacademy.com) - Week 9 Group Project
+### [Makers Academy](http://www.makersacademy.com) - Week 9 Group Project
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/BenJohnCarson/Atomic-Wars/master/images/AtomicWarsLogo.png">
@@ -17,6 +17,7 @@
 * [Installation] (#Install)
 * [User Stories] (#Stories)
 * [Usage] (#Usage)
+* [Online Presentation](#Pres)
 
 ## <a name="Task">Task</a>
 Codewars Atom package that creates and manages a GitHub repo and lets you work in your preferred environment.
@@ -78,3 +79,6 @@ In Atom
 Atomic-Wars: New      # Creates a new Kata
 Atomic-Wars: Submit   # Submits completed Kata to Codewars
 ```
+
+## <a name="Pres">Online Presentation</a>
+[Online Presentation](https://docs.google.com/presentation/d/1z8W0Xob5FVX59OMNMuhPzoWrclGsA3bZyrIt4cELIXw/edit#slide=id.gcb9a0b074_1_0) 
